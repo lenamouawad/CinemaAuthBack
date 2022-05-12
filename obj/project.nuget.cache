@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W7wjHI1P7GDYX5NcEstwWKfLMiz+uUN32KoSuPzBSkYPIAcjeWhRtOGZEspNCGH5o58PzHkzxRBonWRiVO0Yrg==",
+  "dgSpecHash": "bYKLBrcOGb+3VrGNuQNIcV/bA8ONaH2vvSaAtkqGTHgQgaGpit7c3PKOWF5K3WkMQu6j45Q36yzbu3e1EWg4Yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lena\\Desktop\\Projet cinemas\\SecuriteLogicielle\\CinemaSecurite\\CinemaSecurite\\cinemas.csproj",
+  "projectFilePath": "C:\\Users\\Lena\\Desktop\\Projet cinemas\\SecuriteLogicielle\\CinemaSecurite\\New folder\\CinemaSecurite\\cinemas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lena\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
     "C:\\Users\\Lena\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lena\\Desktop\\Projet cinemas\\SecuriteLogicielle\\CinemaSecurite\\CinemaSecurite\\cinemas.csproj": {}
+    "C:\\Users\\Lena\\Desktop\\Projet cinemas\\SecuriteLogicielle\\CinemaSecurite\\New folder\\CinemaSecurite\\cinemas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lena\\Desktop\\Projet cinemas\\SecuriteLogicielle\\CinemaSecurite\\CinemaSecurite\\cinemas.csproj": {
+    "C:\\Users\\Lena\\Desktop\\Projet cinemas\\SecuriteLogicielle\\CinemaSecurite\\New folder\\CinemaSecurite\\cinemas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lena\\Desktop\\Projet cinemas\\SecuriteLogicielle\\CinemaSecurite\\CinemaSecurite\\cinemas.csproj",
+        "projectUniqueName": "C:\\Users\\Lena\\Desktop\\Projet cinemas\\SecuriteLogicielle\\CinemaSecurite\\New folder\\CinemaSecurite\\cinemas.csproj",
         "projectName": "cinemas",
-        "projectPath": "C:\\Users\\Lena\\Desktop\\Projet cinemas\\SecuriteLogicielle\\CinemaSecurite\\CinemaSecurite\\cinemas.csproj",
+        "projectPath": "C:\\Users\\Lena\\Desktop\\Projet cinemas\\SecuriteLogicielle\\CinemaSecurite\\New folder\\CinemaSecurite\\cinemas.csproj",
         "packagesPath": "C:\\Users\\Lena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lena\\Desktop\\Projet cinemas\\SecuriteLogicielle\\CinemaSecurite\\CinemaSecurite\\obj\\",
+        "outputPath": "C:\\Users\\Lena\\Desktop\\Projet cinemas\\SecuriteLogicielle\\CinemaSecurite\\New folder\\CinemaSecurite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
